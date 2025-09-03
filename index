@@ -293,7 +293,7 @@
         const targetUser = "佳茵"; // 固定目标用户
         let userPassword = "050904"; // 初始密码，可修改
         // 核心修改：将跳转链接改为指定的Netlify网址
-        const targetUrl = "https://rainhometest.netlify.app/"; 
+        const targetUrl = "https://raintest.netlify.app/"; 
 
         // 2. DOM元素获取
         const loginForm = document.getElementById("loginForm");
